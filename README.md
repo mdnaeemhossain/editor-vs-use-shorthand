@@ -1,0 +1,1 @@
+# editor-vs-use-shorthand
